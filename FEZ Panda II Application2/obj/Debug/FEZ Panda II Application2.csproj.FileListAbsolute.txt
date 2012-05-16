@@ -1,0 +1,121 @@
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.exe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.exe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.pdb
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.pdb
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\FEZ Panda II Application.exe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\FEZ Panda II Application.pdb
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\TinyCLR_DebugReferences.cache
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ_Panda_II_Application2.Resources.resources
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\GenerateResource.read.1.tlog
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\GenerateResource.write.1.tlog
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ_Panda_II_Application2.Resources.tinyresources
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\TinyResGen.cache
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\be\FEZ Panda II Application.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\be\FEZ Panda II Application.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\le\FEZ Panda II Application.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\le\FEZ Panda II Application.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ Panda II Application.exe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ Panda II Application.pdb
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.IO.dll
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.System.dll
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.IO.xml
+c:\users\applepie\documents\visual studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.W5100.dll
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.W5100.xml
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\FEZPanda_II_GHIElectronics.NETMF.FEZ.dll
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.W5100.Http.dll
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.W5100.Http.xml
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.dll
+C:\Users\ApplePie\Documents\Visual Studio 2010\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.xml
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.exe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.exe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.pdb
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.pdb
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\FEZ Panda II Application.exe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\FEZ Panda II Application.pdb
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\LE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\FEZPanda_II_GHIElectronics.NETMF.FEZ.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\BE\GHIElectronics.NETMF.W5100.Http.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.xml
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.IO.xml
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.W5100.xml
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\bin\Debug\GHIElectronics.NETMF.W5100.Http.xml
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ_Panda_II_Application2.Resources.resources
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ_Panda_II_Application2.Resources.tinyresources
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\TinyResGen.cache
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\be\FEZ Panda II Application.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\le\FEZ Panda II Application.pe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ Panda II Application.exe
+C:\Users\ApplePie\Dropbox\Projects\FEZ Panda II Application2\FEZ Panda II Application2\obj\Debug\FEZ Panda II Application.pdb
